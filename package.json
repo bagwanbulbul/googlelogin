@@ -1,0 +1,17 @@
+{
+  "name": "googlelogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-sign-in": "^3.0.3",
+    "googleapis": "^47.0.0",
+    "save": "^2.4.0"
+  }
+}
